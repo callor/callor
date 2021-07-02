@@ -4,7 +4,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)
 
-[![GitHub forks](https://img.shields.io/github/forks/callor/Biz_506_2020_07_SpringMVC?style=flat-square)](https://github.com/callorBiz_506_2020_07_SpringMVC/network)
+[![GitHub forks](https://img.shields.io/github/forks/callor/Biz_506_2020_07_SpringMVC?style=flat-square)](https://github.com/callorBiz_506_2020_07_SpringMVC)
 
 [![GitHub stars](https://img.shields.io/github/stars/callor?style=flat-square)](https://github.com/callor/Callor_Spring_2020/stargazers)
   
