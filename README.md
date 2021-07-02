@@ -8,3 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Mozilla Add-on](https://img.shields.io/amo/stars/callor?label=java&logo=developer&logoColor=dfd)
