@@ -9,20 +9,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Mozilla Add-on](https://img.shields.io/amo/stars/callor:callor?color=%2300FF00&label=java&logo=developer&logoColor=%23FF0000&style=plastic)
-
-![Mozilla Add-on](https://img.shields.io/callor/languages/count/beygee/survive )
-
-![Mozilla Add-on](https://img.shields.io/github/languages/top/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/languages/code-size/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/repo-size/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/issues/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/issues-closed/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/commit-activity/w/beygee/survive)
-
-![Mozilla Add-on](https://img.shields.io/github/last-commit/beygee/survive)
+![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)
