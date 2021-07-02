@@ -11,7 +11,7 @@
 
 ![Mozilla Add-on](https://img.shields.io/amo/stars/callor:callor?color=%2300FF00&label=java&logo=developer&logoColor=%23FF0000&style=plastic)
 
-![Mozilla Add-on](https://img.shields.io/github/languages/count/beygee/survive )
+![Mozilla Add-on](https://img.shields.io/callor/languages/count/beygee/survive )
 
 ![Mozilla Add-on](https://img.shields.io/github/languages/top/beygee/survive)
 
