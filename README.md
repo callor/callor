@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/callor)](https://hits.seeyoufarm.com) 
+[![오늘방문](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/callor)](https://hits.seeyoufarm.com) 
