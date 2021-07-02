@@ -10,3 +10,7 @@
 
 
 ![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)
+
+[![GitHub forks](https://img.shields.io/github/forks/callor?style=flat-square)](https://github.com/callor/Callor_Spring_2020/network)
+
+[![GitHub stars](https://img.shields.io/github/stars/callor?style=flat-square)](https://github.com/callor/Callor_Spring_2020/stargazers)
