@@ -1,6 +1,6 @@
 <div align=center>
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/callor&count_bg=#379C83D&title_bg=#3555555&icon=&icon_color=#3E7E7E7&title=hits&edge_flat=false&style=for-the-badge)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/callor&count_bg=#379C83D&title_bg=#3555555&icon=&icon_color=#3E7E7E7&title=hits&edge_flat=false&style=for-the-badge)](https://hits.seeyoufarm.com)
 
 ![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)
   
