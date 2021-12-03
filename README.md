@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?transparent&color=auto&height=300&section=header&text=Welcome%20To%20Callor&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20To%20Callor&fontSize=90)
 
 # Summary
 ### 직업능력개발 훈련교사
