@@ -13,6 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://callor.com)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&column=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
