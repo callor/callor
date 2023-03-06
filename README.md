@@ -16,6 +16,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&langs_count=20&theme=dark&layout=compact)](https://callor.com)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=callor&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
