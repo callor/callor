@@ -13,6 +13,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)](https://callor.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark)](https://callor.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://callor.com)
 
