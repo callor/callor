@@ -15,7 +15,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark&hide=contribs&count_private=true&show_icons=true)](https://callor.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&langs_count=8&theme=dark)](https://callor.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&langs_count=20&theme=dark)](https://callor.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
