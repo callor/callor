@@ -12,7 +12,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)](https://callor.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark&hide=contribs,prs)](https://callor.com)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark&hide=contribs,prs&count_private=true)](https://callor.com)
 
 
 
