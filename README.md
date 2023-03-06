@@ -14,7 +14,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark&hide=contribs&count_private=true&show_icons=true)](https://callor.com)
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=callor&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://callor.com)
 
