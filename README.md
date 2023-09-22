@@ -18,7 +18,6 @@
 #
 [![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&column=3&ranks=SSS)](https://github.com/ryo-ma/github-profile-trophy)
 #
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=callor&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callor)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
