@@ -22,4 +22,3 @@
 #
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=callor&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Campfire]https://github-readme-stats.hackclub.dev/api/wakatime?username=9572&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
