@@ -15,8 +15,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/callor?style=for-the-badge)](https://callor.com)
 #
 [![Callor's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor&theme=dark&hide=contribs&count_private=true&show_icons=true)](https://callor.com)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callor)](https://github.com/anuraghazra/github-readme-stats)
-
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&langs_count=20&theme=dark&layout=compact)](https://callor.com)
 #
 [![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&column=3&ranks=SSS)](https://github.com/ryo-ma/github-profile-trophy)
