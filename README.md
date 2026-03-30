@@ -9,6 +9,6 @@
 
 
 
-# Welcome HIT & Following
+# Welcome Following & Star Click
 
 
