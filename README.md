@@ -2,10 +2,13 @@
 
 # Summary
 
+### :racehorse: Ancora Impar
+### :racehorse: I am studying very hard
 ### :horse_racing: 책읽기와 이야기 나누기를 좋아하는 개발자
 ### :horse_racing: 인공지능 개발자, 프롬프트 엔지니어링
-### :racehorse: I am studying very hard
-### :racehorse: Ancora Impar
+### :horse_racing: AI Developer, Prompt Engineering
+
+
 
 
 
