@@ -9,7 +9,7 @@
 ### :horse_racing: AI Developer, Prompt Engineering
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://callor.com)
 
 
 
