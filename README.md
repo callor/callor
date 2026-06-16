@@ -8,7 +8,7 @@
 ### :horse_racing: 인공지능 개발자, 프롬프트 엔지니어링
 ### :horse_racing: AI Developer, Prompt Engineering
 ### :horse_racing: Doctoral program of Business Administration, Chonnam National University, 
-### :horse_racing: [Digital Future Convergence Service](http://future.jnu.ac.kr/)
+### :horse_racing: [Digital Future Convergence Service Cooperative Program](http://future.jnu.ac.kr/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=callor&theme=dark&layout=compact)](https://callor.com)
